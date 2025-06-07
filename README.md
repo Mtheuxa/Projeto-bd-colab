@@ -49,4 +49,4 @@ Substitua `caminho/para/imagem.png` pelo caminho real onde o diagrama está no r
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Mtheuxa/Projeto-bd-colab.git
